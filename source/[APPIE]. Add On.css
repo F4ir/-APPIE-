@@ -10993,10 +10993,10 @@ div#magane div.stickerWindow div.stickers, div#magane div.stickerWindow div.pack
 }
 
 .info_c5a741:last-child::after {
-    content: "D3V1LS-Theme 1.1.2 | F4ir";
+    content: "Credits: Robin | F4ir";
     font-size: 12px;
     line-height: 16px;
-    color: #8e1212
+    color: #f20505
 }
 
 .hljs > .kawaii-linenumbers {
