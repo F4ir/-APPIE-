@@ -27,7 +27,7 @@
     --background-invert: 0%;
     --background-blur: 0px;
     --background-overlay: rgba(0,0,0,.27);
-    --user-popout-image: url('https://i.gyazo.com/4c3e4db86254c1ed2b1d9f7fb8b95c0c.jpg');
+    --user-popout-image: url('https://github.com/F4ir/-APPIE-/blob/main/images/Rotterdam.jpg?raw=true');
     --user-popout-position: center;
     --user-popout-size: cover;
     --user-popout-repeat: no-repeat;
@@ -38,7 +38,7 @@
     --user-popout-grayscale: 0%;
     --user-popout-invert: 0%;
     --user-popout-blur: 3px;
-    --user-modal-image: url('https://i.gyazo.com/4c3e4db86254c1ed2b1d9f7fb8b95c0c.jpg');
+    --user-modal-image: url('https://github.com/F4ir/-APPIE-/blob/main/images/Rotterdam.jpg?raw=true');
     --user-modal-position: center;
     --user-modal-size: cover;
     --user-modal-repeat: no-repeat;
