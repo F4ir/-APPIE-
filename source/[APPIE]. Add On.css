@@ -73,7 +73,7 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://cdn.discordapp.com/attachments/1014477941721284669/1280427021192794235/watchdogs.png?ex=66d80a17&is=66d6b897&hm=28d41143af38867cd537f2afe91aaa0738c051c9d4f68350c8f743ed5c4f4f3e&);
+    --home-icon: url(https://github.com/F4ir/-APPIE-/blob/main/images/watchdogs.png?raw=true);
     --home-position: center;
     --home-size: 40px;
     --popout-color: rgba(0, 0, 0, .8);
