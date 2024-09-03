@@ -1,5 +1,6 @@
-﻿:root {
+:root {
     --main-color: #c71414;
+    --home-color: #000000;
     --hover-color: #8e1212;
     --success-color: #b54343;
     --danger-color: #982929;
@@ -72,7 +73,7 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://github.com/F4ir/-APPIE-/blob/main/images/Avicii-logo.png?raw=true);
+    --home-icon: url(https://cdn.discordapp.com/attachments/1014477941721284669/1280427021192794235/watchdogs.png?ex=66d80a17&is=66d6b897&hm=28d41143af38867cd537f2afe91aaa0738c051c9d4f68350c8f743ed5c4f4f3e&);
     --home-position: center;
     --home-size: 40px;
     --popout-color: rgba(0, 0, 0, .8);
@@ -2958,7 +2959,7 @@ textarea::-webkit-scrollbar {
 .childWrapper_f90abb > svg {
     width: 100%;
     height: 100%;
-    background: var(--home-icon) var(--home-position)/var(--home-size) no-repeat
+    background: var(--home-color) var(--home-icon) var(--home-position)/var(--home-size) no-repeat
 }
 
     .childWrapper_f90abb > svg > path {
@@ -7609,7 +7610,7 @@ code {
         width: 100%;
         height: 100%;
         display: block;
-        background: var(--main-color);
+        background: var(--home-color);
         border-radius: 4px;
         opacity: .7
     }
