@@ -6,6 +6,9 @@
  * @website https://github.com/F4ir/
 */
 
+@import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/Old%20Icons%20Discord.css');
+
+
 @import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/%5BAPPIE%5D.%20Add%20On.css');
 
 :root {
@@ -81,6 +84,3 @@
     --bd-blue-hover: var(--hover-color);
     --bd-blue-active: var(--hover-color);
 }
-
-/* Any custom CSS below here */
-@import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/Old%20Icons%20Discord.css');
