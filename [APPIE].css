@@ -11,6 +11,11 @@
 
 @import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/%5BAPPIE%5D.%20Add%20On.css');
 
+
+@import url(https://raw.githubusercontent.com/F4ir/Extens/refs/heads/main/Extens/SettingProfileRedesign.css);
+
+
+
 :root {
     --main-color: #c71414;
     --hover-color: #8e1212;
