@@ -1,3 +1,13 @@
+/* Setting Icons */
+@import url('https://raw.githubusercontent.com/F4ir/Extens/main/Extens/Add-Icons.css');
+
+/* Old Discord Icons */
+@import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/Old%20Icons%20Discord.css');
+
+/* Settings Redisign */
+@import url('https://raw.githubusercontent.com/F4ir/Extens/refs/heads/main/Extens/SettingProfileRedesign.css');
+
+
 :root {
     --main-color: #c71414;
     --home-color: #000000;
