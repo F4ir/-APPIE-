@@ -76,7 +76,7 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://github.com/F4ir/-APPIE-/blob/main/images/watchdogs.png?raw=true);
+    --home-icon: url(https://github.com/RaptorBlueNL/discord-bg/blob/main/image.png?raw=true);
     --home-position: center;
     --home-size: 40px;
     --popout-color: rgba(0, 0, 0, .8);
