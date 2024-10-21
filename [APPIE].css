@@ -6,12 +6,16 @@
  * @website https://github.com/F4ir/
 */
 
+/* Setting Icons */
+@import url('https://raw.githubusercontent.com/F4ir/Extens/main/Extens/Add-Icons.css');
+
+/* Old Discord Icons */
 @import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/Old%20Icons%20Discord.css');
 
 
 @import url('https://raw.githubusercontent.com/F4ir/-APPIE-/main/source/%5BAPPIE%5D.%20Add%20On.css');
 
-
+/* Settings Redisign */
 @import url('https://raw.githubusercontent.com/F4ir/Extens/refs/heads/main/Extens/SettingProfileRedesign.css');
 
 
@@ -22,7 +26,7 @@
     --success-color: #b54343;
     --danger-color: #982929;
     --url-color: #00A8FC;
-    --background-image: url(https://github.com/F4ir/-APPIE-/blob/main/images/bf5-plane.jpg?raw=true);
+    --background-image: url((https://github.com/RaptorBlueNL/discord-bg/blob/main/image.png?raw=true);
     --background-shading: 100%;
     --background-position: center;
     --background-size: cover;
@@ -61,7 +65,7 @@
     --home-position: center;
     --home-size: 40px;
     --channel-unread: var(--main-color);
-    --channel-color: rgba(255,255,255,0.3);
+    --channel-color: rgb(255, 255, 255);
     --muted-color: rgba(255,255,255,0.1);
     --online-color: #43b581;
     --idle-color: #faa61a;
